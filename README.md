@@ -20,7 +20,7 @@
 
 ### 个人主页
 **苹果风极简个人网站**
-https://CHenQiuguo.github.io/
+https://ChenQiuguo.github.io/
 
 ---
 
