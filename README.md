@@ -20,7 +20,7 @@
 
 ### 个人主页
 **苹果风极简个人网站**
-https://frierensummer.github.io/
+https://CHenQiuguo.github.io/
 
 ---
 
